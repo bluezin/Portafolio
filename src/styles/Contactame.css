@@ -1,0 +1,164 @@
+@import url(https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@500&display=swap);
+
+
+.contactame {
+  background-color: white;
+  width: 450px;
+  margin: auto;
+  border-radius: 20px;
+  color: #000000;
+  /* box-shadow: 2px 1px 8px #eeeede; */
+  padding-top: 25px;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  letter-spacing: 1px;
+}
+.fixed {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  background-color: rgb(0, 0, 0, 0.7);
+}
+
+.formulario {
+  text-align: center;
+}
+
+.contactame-input {
+  border-radius: 10px;
+  outline: none;
+  border: none;
+  padding: 15px;
+  width: 50%;
+  background-color: #B3E5FF;
+
+}
+
+.mensaje {
+  border-radius: 10px;
+  outline: none;
+  border: none;
+  width: 56%;
+  padding-bottom: 86px;
+  padding-top: 10px;
+  padding-left: 10px;
+  margin-bottom: 20px;
+  /* background-color: #B3E5FF; */
+  background-color: #B3E5FF;
+
+  /* opacity: 0.4; */
+}
+
+.contac {
+  text-align: center;
+  margin-top: -10px;
+}
+
+.Button {
+  margin-bottom: 30px;
+}
+
+
+.ex {
+  font-size: 25px;
+  cursor: pointer;
+  user-select: none;
+  display: inline-flex;
+  padding: 10px;
+  width: 20px;
+  
+}
+.aiout {
+  text-align: right;
+  margin-right: 10px;
+  margin-top: -20px;
+}
+
+.ex:hover {
+  background-color: rgb(0, 0, 0, 0.2);
+  border-radius: 50%;
+}
+
+@media screen and (max-width: 500px) {
+.contactame{
+  width: 90%;
+}
+.p-contactame {
+  margin-right: 100px;
+}
+.ex{
+  margin-right: -5px;
+}
+}
+@media screen and (min-width: 500px) {
+
+.p-contactame {
+  margin-right: 240px;
+}
+}
+
+.shake-horizontal {
+	-webkit-animation: shake-horizontal 0.8s cubic-bezier(0.455, 0.030, 0.515, 0.955) both;
+	        animation: shake-horizontal 0.8s cubic-bezier(0.455, 0.030, 0.515, 0.955) both;
+}
+
+
+@-webkit-keyframes shake-horizontal {
+  0%,
+  100% {
+    -webkit-transform: translateX(0);
+            transform: translateX(0);
+  }
+  10%,
+  30%,
+  50%,
+  70% {
+    -webkit-transform: translateX(-10px);
+            transform: translateX(-10px);
+  }
+  20%,
+  40%,
+  60% {
+    -webkit-transform: translateX(10px);
+            transform: translateX(10px);
+  }
+  80% {
+    -webkit-transform: translateX(8px);
+            transform: translateX(8px);
+  }
+  90% {
+    -webkit-transform: translateX(-8px);
+            transform: translateX(-8px);
+  }
+}
+@keyframes shake-horizontal {
+  0%,
+  100% {
+    -webkit-transform: translateX(0);
+            transform: translateX(0);
+  }
+  10%,
+  30%,
+  50%,
+  70% {
+    -webkit-transform: translateX(-10px);
+            transform: translateX(-10px);
+  }
+  20%,
+  40%,
+  60% {
+    -webkit-transform: translateX(10px);
+            transform: translateX(10px);
+  }
+  80% {
+    -webkit-transform: translateX(8px);
+            transform: translateX(8px);
+  }
+  90% {
+    -webkit-transform: translateX(-8px);
+            transform: translateX(-8px);
+  }
+}
