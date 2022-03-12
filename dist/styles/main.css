@@ -5,12 +5,13 @@
 @import url(https://fonts.googleapis.com/css2?family=Tajawal:wght@300&display=swap);
 @import url(https://fonts.googleapis.com/css2?family=Anton&display=swap);
 body {
-  color: white;
   flex-direction: column;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top;
-  background-image: url(https://www.setaswall.com/wp-content/uploads/2017/10/Blur-Background-6z-Wallpaper-1080x1920-380x676.jpg);
+  /* background-image: url(https://www.setaswall.com/wp-content/uploads/2017/10/Blur-Background-6z-Wallpaper-1080x1920-380x676.jpg); */
+  background-color: #004b87;
+  color: white;
 }
 
 .name::before {
@@ -628,7 +629,7 @@ color: rgb(121, 202, 202);
   text-align: center;
   margin-top: 130px;
   border-radius: 10px;
-  background-color: #004b87;
+  background-color: rgb(8, 30, 90);
   letter-spacing: 2px;
 }
 .FiHeart {
@@ -710,6 +711,13 @@ padding-top: 10px;
   content: ' }';
   color: #37bdbd;
 
+}
+
+.link-github {
+  color: #30acac;
+  margin-top: 10px;
+  cursor: pointer;
+  display: block;
 }
 
 @media screen and (max-width: 500px) {
