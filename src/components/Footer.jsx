@@ -24,11 +24,18 @@ const Footer = () => {
       <a href="https://twitter.com/YadiraCondezo">
         <AiFillTwitterCircle className="FiTwitter" />
       </a>
-    
+
       <p className="heart">
-       Hecho con
+        Puedes revisar todos mis proyectos realizados entrando a mi perfil de
+        github:
+        <br />
+        <a href="https://github.com/bluezin" className="link-github">Cuenta de Github</a>
+      </p>
+
+      <p className="heart">
+        Hecho con
         <FaHeart className="FiHeart" />
-       por Yadira
+        por Yadira
       </p>
     </div>
   );

@@ -3,7 +3,7 @@
   text-align: center;
   margin-top: 130px;
   border-radius: 10px;
-  background-color: #004b87;
+  background-color: rgb(8, 30, 90);
   letter-spacing: 2px;
 }
 .FiHeart {
@@ -85,6 +85,13 @@ padding-top: 10px;
   content: ' }';
   color: #37bdbd;
 
+}
+
+.link-github {
+  color: #30acac;
+  margin-top: 10px;
+  cursor: pointer;
+  display: block;
 }
 
 @media screen and (max-width: 500px) {

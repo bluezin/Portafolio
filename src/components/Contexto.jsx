@@ -17,19 +17,18 @@ const Contexto = () => {
         <div className="sobre-mi">
           <h1 className="frase-sobre">Sobre mí</h1>
           <p className="contexto-p">
-            Mi nombre es yadira condezo , tengo 17 años, soy de Perú . Yo soy
-            frontend developer, me encanta el mundo de la programación, inicie
+            Mi nombre es yadira condezo , tengo 18 años, soy de Perú . Yo soy
+            Fronted developer, me encanta el mundo de la programación, inicie
             hace un año y medio aproximadamente, y día a día sigo aprendiendo y
             es lo emocionante de esta carrera que nunca se para de aprender.
           </p>
           <p>
-            Si lo que buscas es una frontend developer para realizar landing
-            page app, aplicaciones, paginas web, o si necesitas consumir alguna
-            API, este es el lugar correcto.
+            Todo lo que he aprendido fue siendo autodidacta, tengo muchas ganas de seguir mejorando mis skils,
+            no dudes en contactarme :).
           </p>
           <p>
             <AiFillPhone className="AiFillPhone" />
-            +51 994 107 561
+            994 107 561
           </p>
           <p>
             <CgMail className="CgMail" />

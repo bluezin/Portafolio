@@ -184,7 +184,7 @@ const Proyectos = () => {
             </Modal>
 
             <p className="content-p">
-              Es una landing Page, lo realize con Html y css.
+              Es un challenge que realice de la empresa Aerolab
               <br />
               <br />
               <a
@@ -209,7 +209,7 @@ const Proyectos = () => {
             </Modal>
 
             <p className="content-p">
-              Es una landing Page, lo realize con Html y css.
+              Es un juego muy divertido, papel o tijeras.
               <br />
               <br />
               <a

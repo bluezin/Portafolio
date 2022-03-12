@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/accessible-emoji */
 /* eslint-disable no-return-assign */
 import React from 'react';
 import Typical from 'react-typical';
@@ -16,18 +17,27 @@ const Home = () => {
         </div>
         <div className="conjunto">
           <div className="frase-div">
-            <h1 className="frase">Si se puede imaginar se puede programar</h1>
+            <h1 className="frase">Soy Fronted developer</h1>
           </div>
           <div className="div-home" id="cadenas-texto">
-            <h1 className="name">Soy Yadira Condezo</h1>
+            <h1 className="name">Tecnologías que domino 👇</h1>
 
             <p className="p-home">
-              D
               <Typical
                 steps={[
-                  'esarrolladora Front-end',
+                  'React',
                   1000,
-                  'iseñadorora UI',
+                  'Html',
+                  1000,
+                  'Css',
+                  1000,
+                  'Javascript',
+                  1000,
+                  'Typescript',
+                  1000,
+                  'Ruby on rails',
+                  1000,
+                  'Sass',
                   1000,
                 ]}
                 loop={Infinity}
