@@ -71,8 +71,5 @@
   "bugs": {
     "url": "https://github.com/gndx/react-base/issues"
   },
-  "homepage": "https://github.com/gndx/react-base#readme",
-  "engines": {
-    "npm": "14.18.2"
-  }
+  "homepage": "https://github.com/gndx/react-base#readme"
 }
