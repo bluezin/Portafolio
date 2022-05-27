@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Veride",
+    "linkGithub": "https://github.com/bluezin/C4-30-front",
+    "linkVisit": "https://veride.netlify.app/",
+    "image": "https://res.cloudinary.com/dzkhw6nzm/image/upload/v1653675531/kc3nemju3r2pgdcoreyn.png",
+    "description": "Es un ecommerce para un restaurante vegetariano que se trabajo en equipo. Utilice tecnologías como React, Ruby on Rails, Material Ui, Postgresql, Context."
+  },
+  {
+    "title": "Instagram",
+    "linkGithub": "https://github.com/bluezin/Instagram",
+    "linkVisit": "https://instagramruby.herokuapp.com/users/new",
+    "image": "https://res.cloudinary.com/dzkhw6nzm/image/upload/v1653675702/smpluyvgk2wyt2r3lilv.png",
+    "description": "Es un clon de Instagram, utilice tecnologías como React, Ruby on Rails, SQL, Tailwind."
+  },
+  {
+    "title": "Artifact Store",
+    "linkGithub": "https://github.com/bluezin/Artifact-store",
+    "linkVisit": "https://artifact-store.vercel.app/",
+    "image": "https://res.cloudinary.com/dzkhw6nzm/image/upload/v1653675833/bgjttbgfgz0reaqfuejb.png",
+    "description": "Es un challenge que realice de la empresa de Airolab, use React, axios, Sass, Javascript, Context."
+  },
+  {
+    "title": "Bookmark (Landing-page)",
+    "linkGithub": "https://github.com/bluezin/Bookmark-landing-page",
+    "linkVisit": "https://bookmark-landing-page-tau-amber.vercel.app/",
+    "image": "https://res.cloudinary.com/dzkhw6nzm/image/upload/v1653675927/samuydj4ttuykmbmsjxw.png",
+    "description": "Es una landing page, realisada con puro CSS y HTML"
+  },
+  {
+    "title": "Todo List",
+    "linkGithub": "https://github.com/bluezin/todo-list-with-react",
+    "linkVisit": "https://todo-list-blue.vercel.app/",
+    "image": "https://res.cloudinary.com/dzkhw6nzm/image/upload/v1653676000/a76wwvatwqtktohqx5tj.png",
+    "description": "Es un Todo Lits para poder agregar tareas!, esta echo con React!"
+  },
+  {
+    "title": "Rick and Morty",
+    "linkGithub": "https://github.com/bluezin/Riky-and-Morty",
+    "linkVisit": "https://riky-and-morty.vercel.app/",
+    "image": "https://res.cloudinary.com/dzkhw6nzm/image/upload/v1653676200/dpirknqotexjm5nwktca.png",
+    "description": "Aqui consumi la api de Rick and Morty, utilice React, CSS, Javascript!"
+  },
+  {
+    "title": "Countries",
+    "linkGithub": "https://github.com/bluezin/Countries",
+    "linkVisit": "https://countries-bluezin.vercel.app/",
+    "image": "https://res.cloudinary.com/dzkhw6nzm/image/upload/v1653676394/a0xk6lmbgontd5garzdg.png",
+    "description": "Muestra la lista de los países, consumo una api gratuita, esta realizado con Redux, React, Javascript, stled-components!"
+  },
+  {
+    "title": "Articles",
+    "linkGithub": "https://github.com/bluezin/Articles",
+    "linkVisit": "https://articles-ruby.herokuapp.com/",
+    "image": "https://res.cloudinary.com/dzkhw6nzm/image/upload/v1653676510/v5lacblod3fwbumtlmel.png",
+    "description": "Es un blog, en donde puedes agregar artículos, editarlos y eliminarlos, además de agregar comentarios, y todo se guarda en la base de datos, esta realizada con Ruby, Ruby on Rails, SQL, Postgresql y Tailwind."
+  }
+]

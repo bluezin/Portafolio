@@ -1,0 +1,38 @@
+.Card-subcontainer {
+  background-color: rgba(253, 241, 241, 0.3);
+  border-radius: 30px;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.Card-image {
+  width: 100%;
+  border-radius: 30px;
+}
+
+.Card-description {
+  width: 100%;
+  text-align: center;
+  display: block;
+  font-size: 19px;
+  font-family: monospace;
+}
+
+.Card-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.Card-title h2 {
+  font-family: monospace;
+  color: rgb(247, 248, 255);
+}
+
+.Card a {
+  font-size: 30px;
+  color: white;
+  margin-top: 10px;
+  margin-left: 15px;
+}
+

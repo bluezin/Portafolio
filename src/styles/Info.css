@@ -1,0 +1,31 @@
+.Info {
+  padding: 5rem;
+}
+
+.Info-container {
+  width: 90%;
+  margin: 20px auto;
+}
+
+.Info h2 {
+  text-align: center;
+  font-family: monospace;
+  font-size: 30px;
+}
+
+.Info .sub-div {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.Info strong {
+  font-size: 22px;
+}
+
+.Info p {
+  padding: 2px 25px;
+  border-radius: 15px;
+  background-color: rgba(253, 241, 241, 0.3);
+  font-size: 20px;
+}

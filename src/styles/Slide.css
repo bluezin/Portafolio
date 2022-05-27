@@ -1,0 +1,13 @@
+.Slide {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.Slide button {
+  cursor: pointer;
+  font-size: 40px;
+  background-color: transparent;
+  border: none;
+  color: white;
+}

@@ -1,9 +1,5 @@
 body {
-  flex-direction: column;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: top;
-  /* background-image: url(https://www.setaswall.com/wp-content/uploads/2017/10/Blur-Background-6z-Wallpaper-1080x1920-380x676.jpg); */
-  background-color: #004b87;
+  background: radial-gradient(circle,#185a9d 0,#43cfbe 100%);
   color: white;
+  font-family: 'Mukta', sans-serif;
 }

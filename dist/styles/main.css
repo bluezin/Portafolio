@@ -530,7 +530,7 @@ color: rgb(121, 202, 202);
   display: inline-flex;
   padding: 10px;
   width: 20px;
-  
+
 }
 .aiout {
   text-align: right;
@@ -848,7 +848,7 @@ padding-top: 10px;
     display: none;
     font-family: monospace;
     font-weight: bold;
-  
+
   }
 }
 @media screen and (max-width: 578px) {
@@ -863,7 +863,7 @@ padding-top: 10px;
     display: none;
     font-family: monospace;
     font-weight: bold;
-  
+
   }
 }
 
@@ -1053,7 +1053,7 @@ color: rgb(153, 214, 214);
   .todo {
     width: 70%;
   }
- 
+
 
 }
 

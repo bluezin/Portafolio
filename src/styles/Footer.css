@@ -1,17 +1,17 @@
-
 .div-footer {
   text-align: center;
   margin-top: 130px;
   border-radius: 10px;
-  background-color: rgb(8, 30, 90);
+  background-color: rgba(253, 241, 241, 0.3);
   letter-spacing: 2px;
 }
+
 .FiHeart {
   margin-left: 6px;
   margin-right: 6px;
   position: relative;
   top: 3px;
-  color: #ffffff;
+  color: rgb(253, 124, 124);
 }
 
 .AiFillGithub {
@@ -21,8 +21,6 @@
   cursor: pointer;
   font-size: 42px;
   border-radius: 50%;
-  color: rgb(255, 255, 255);
-
 }
 
 .AiFillGithub:hover {
@@ -30,8 +28,8 @@
 }
 .me-encuentras {
   padding-top: 10px;
-  font-size: 15px;
-  color: #30acac;
+  font-size: 20px;
+  color: white;
   font-family: monospace;
 }
 
@@ -39,11 +37,9 @@
   margin-left: 20px;
   margin-bottom: 3px;
   font-size: 42px;
-
   cursor: pointer;
-  /* font-size: 30px; */
   border-radius: 30%;
-  color: rgb(255, 255, 255);
+  color: white;
 }
 .FaInstagram:hover {
   color: rgb(41, 241, 231);
@@ -51,18 +47,17 @@
 
 .FiTwitter {
   margin-bottom: 3px;
-  color: rgb(255, 255, 255);
+  color: white;
   margin-left: 20px;
   cursor: pointer;
   font-size: 42px;
-
 }
 .FiTwitter:hover {
   color: rgb(43, 194, 214);
 }
 
 .heart {
-  color: rgb(92, 235, 235);
+  color: white;
   padding-bottom: 30px;
   text-align: center;
 }
@@ -71,55 +66,39 @@
   width: 80px;
   border-radius: 25px;
 }
-.bluezin-footer{
-font-size: 30px;
-padding-top: 10px;
-}
-
-.bluezin-footer::before {
-  content: '{ ';
-  color: #37bdbd;
-
-}
-.bluezin-footer::after {
-  content: ' }';
-  color: #37bdbd;
-
+.bluezin-footer {
+  font-size: 40px;
+  padding-top: 10px;
+  color: white;
+  font-family: monospace;
 }
 
 .link-github {
-  color: #30acac;
+  color: white;
   margin-top: 10px;
   cursor: pointer;
   display: block;
+  font-weight: bold;
+  font-size: 17px;
 }
 
 @media screen and (max-width: 500px) {
   .div-footer {
     font-size: 13px;
-
   }
   .FiTwitter {
     font-size: 29px;
-
   }
   .FaInstagram {
     font-size: 29px;
-
   }
   .AiFillGithub {
     font-size: 29px;
   }
-  .me-encuentras{
+  .me-encuentras {
     font-size: 13px;
   }
-  .bluezin-footer{
+  .bluezin-footer {
     font-size: 18px;
-  }
-}
-@media screen and (max-width: 510px) {
-  .div-footer {
-    margin-top: 150px;
-    padding-bottom: 5px;
   }
 }
