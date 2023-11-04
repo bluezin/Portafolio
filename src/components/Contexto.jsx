@@ -20,15 +20,11 @@ const Contexto = () => {
               steps={[
                 'React',
                 1000,
-                'Html',
-                1000,
                 'Css',
                 1000,
                 'Javascript',
                 1000,
                 'Typescript',
-                1000,
-                'Ruby on rails',
                 1000,
                 'Sass',
                 1000,
@@ -41,16 +37,15 @@ const Contexto = () => {
       </div>
       <div className="sobre-mi">
         <h1 className="frase-sobre">Hola, me llamo Yadira!!</h1>
-        <i>
-          Soy Software Engineer, me encanta el mundo de la programación, inicie
-          hace un año y medio aproximadamente, y día a día sigo aprendiendo y es
-          lo emocionante de esta carrera que nunca se para de aprender. Todo lo
-          que he aprendido fue siendo autodidacta, tengo muchas ganas de seguir
-          mejorando mis skils, no dudes en contactarme :).
+        <p>
+          Soy Desarrolladora Frontend, mas de 1 año y medio en el mundo de la
+          programacíon, en donde he podido aprender y crecer más
+          profesionalmente, si buscas una Desarrolladora Frontend puede que yo
+          sea tu opción :)
           <br />
           PSDT: Tengo muchos proyectos en mi github!, puedes darles un
           vistazo!!!!
-        </i>
+        </p>
 
         <div className="cv">
           <a download href={cv}>

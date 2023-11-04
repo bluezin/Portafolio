@@ -23,7 +23,11 @@ const Footer = () => {
       >
         <AiFillGithub className="AiFillGithub" />
       </a>
-      <a href="https://twitter.com/YadiraCondezo" rel="noopener noreferrer" target="_blank">
+      <a
+        href="https://twitter.com/YadiraCondezo"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
         <AiFillTwitterCircle className="FiTwitter" />
       </a>
 
@@ -42,9 +46,8 @@ const Footer = () => {
       </p>
 
       <p className="heart">
-        Hecho con
+        Hecho por Yadira
         <FaHeart className="FiHeart" />
-        por Yadira
       </p>
     </div>
   );
