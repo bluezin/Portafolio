@@ -41,7 +41,7 @@ const Contexto = () => {
           Soy Desarrolladora Frontend, mas de 1 año y medio en el mundo de la
           programacíon, en donde he podido aprender y crecer más
           profesionalmente, si buscas una Desarrolladora Frontend puede que yo
-          sea tu opción :)
+          sea tu opción :).
           <br />
           PSDT: Tengo muchos proyectos en mi github!, puedes darles un
           vistazo!!!!
