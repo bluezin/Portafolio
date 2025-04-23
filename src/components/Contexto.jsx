@@ -13,12 +13,14 @@ const Contexto = () => {
         <div className="technologies">
           <img src={yadira} alt="yadira" />
 
-          <p className="technologies-1">Tecnologías que domino:</p>
+          <p className="technologies-1">Tecnologías que he usado:</p>
 
           <p className="p-home">
             <Typical
               steps={[
                 'React',
+                1000,
+                'Next.js',
                 1000,
                 'Css',
                 1000,
@@ -27,6 +29,8 @@ const Contexto = () => {
                 'Typescript',
                 1000,
                 'Sass',
+                1000,
+                'Material UI',
                 1000,
               ]}
               loop={Infinity}
@@ -38,10 +42,10 @@ const Contexto = () => {
       <div className="sobre-mi">
         <h1 className="frase-sobre">Hola, me llamo Yadira!!</h1>
         <p>
-          Soy Desarrolladora Frontend, mas de 1 año y medio en el mundo de la
-          programacíon, en donde he podido aprender y crecer más
-          profesionalmente, si buscas una Desarrolladora Frontend puede que yo
-          sea tu opción :).
+          Soy Desarrolladora Frontend, cristiana, tengo 21 años, con más de 3
+          años en el mundo de la programacíon, en donde he podido aprender y
+          crecer más profesionalmente, si buscas una Desarrolladora Frontend
+          puede que yo sea tu opción :)
           <br />
           PSDT: Tengo muchos proyectos en mi github!, puedes darles un
           vistazo!!!!

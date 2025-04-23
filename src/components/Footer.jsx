@@ -10,7 +10,7 @@ const Footer = () => {
       <h1 className="me-encuentras">Mis redes sociales son: </h1>
 
       <a
-        href="https://www.instagram.com/yadiracondezo/"
+        href="https://www.instagram.com/yoisyconde/"
         rel="noopener noreferrer"
         target="_blank"
       >

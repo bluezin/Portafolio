@@ -9,14 +9,15 @@ const Info = () => {
         <div className="sub-div">
           <p>React</p>
           <p>Javascript</p>
-          <p>Next</p>
+          <p>Next.js</p>
           <p>Git</p>
           <p>Sass</p>
           <p>Css</p>
           <p>Typescript</p>
           <p>Tailwind</p>
           <p>Ruby on Rails</p>
-          <p>Redux</p>
+          <p>Redux Toolkit</p>
+          <p>Module Federation</p>
         </div>
       </div>
     </div>

@@ -1,5 +1,12 @@
 [
   {
+    "title": "Countries v2",
+    "linkGithub": "https://github.com/bluezin/countries-v2",
+    "linkVisit": "https://countries-v2-3y4w.vercel.app/",
+    "image": "https://res.cloudinary.com/dzkhw6nzm/image/upload/v1653676394/a0xk6lmbgontd5garzdg.png",
+    "description": "Muestra la lista de los países, consumo una api gratuita que esta dentro de countries (una api usando lo de Next.js), esta realizado con Redux Toolkit, Next.js, React, CSS Modules!"
+  },
+  {
     "title": "Veride",
     "linkGithub": "https://github.com/bluezin/C4-30-front",
     "linkVisit": "https://veride.netlify.app/",
@@ -9,14 +16,14 @@
   {
     "title": "Instagram",
     "linkGithub": "https://github.com/bluezin/Instagram",
-    "linkVisit": "https://instagramruby.herokuapp.com/users/new",
+    "linkVisit": "https://www.loom.com/share/8ddb48acd09b43d9ae77771067cdcdd8",
     "image": "https://res.cloudinary.com/dzkhw6nzm/image/upload/v1653675702/smpluyvgk2wyt2r3lilv.png",
     "description": "Es un clon de Instagram, utilice tecnologías como React, Ruby on Rails, SQL, Tailwind."
   },
   {
     "title": "Artifact Store",
     "linkGithub": "https://github.com/bluezin/Artifact-store",
-    "linkVisit": "https://artifact-store.vercel.app/",
+    "linkVisit": "https://artifact-store-mu.vercel.app/",
     "image": "https://res.cloudinary.com/dzkhw6nzm/image/upload/v1653675833/bgjttbgfgz0reaqfuejb.png",
     "description": "Es un challenge que realice de la empresa de Airolab, use React, axios, Sass, Javascript, Context."
   },
@@ -42,16 +49,9 @@
     "description": "Aqui consumi la api de Rick and Morty, utilice React, CSS, Javascript!"
   },
   {
-    "title": "Countries",
-    "linkGithub": "https://github.com/bluezin/Countries",
-    "linkVisit": "https://countries-bluezin.vercel.app/",
-    "image": "https://res.cloudinary.com/dzkhw6nzm/image/upload/v1653676394/a0xk6lmbgontd5garzdg.png",
-    "description": "Muestra la lista de los países, consumo una api gratuita, esta realizado con Redux, React, Javascript, stled-components!"
-  },
-  {
     "title": "Articles",
     "linkGithub": "https://github.com/bluezin/Articles",
-    "linkVisit": "https://articles-ruby.herokuapp.com/",
+    "linkVisit": "https://www.loom.com/share/2939bcd7e74b4fa282be58f828111a66?sid=33bb1bf8-d959-4b66-b5af-138bfffd415c",
     "image": "https://res.cloudinary.com/dzkhw6nzm/image/upload/v1653676510/v5lacblod3fwbumtlmel.png",
     "description": "Es un blog, en donde puedes agregar artículos, editarlos y eliminarlos, además de agregar comentarios, y todo se guarda en la base de datos, esta realizada con Ruby, Ruby on Rails, SQL, Postgresql y Tailwind."
   }
