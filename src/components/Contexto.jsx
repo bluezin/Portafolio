@@ -1,7 +1,7 @@
 import React from 'react';
 import { CgMail } from 'react-icons/cg';
 import { AiFillPhone } from 'react-icons/ai';
-import Typical from 'react-typical';
+import { Typewriter } from 'react-simple-typewriter';
 import yadira from '../images/yadira.jpg';
 import cv from '../images/YadiraCondezoCV.pdf';
 import '../styles/Contexto.css';
@@ -15,30 +15,24 @@ const Contexto = () => {
 
           <p className="technologies-1">Tecnologías que he usado:</p>
 
-          <p className="p-home">
-            <Typical
-              steps={[
+          <p>
+            <Typewriter
+              words={[
                 'React',
-                1000,
                 'Next.js',
-                1000,
                 'Css',
-                1000,
                 'Javascript',
-                1000,
                 'Typescript',
-                1000,
                 'Sass',
-                1000,
                 'Material UI',
-                1000,
               ]}
-              loop={Infinity}
+              loop={3}
               wrapper="b"
             />
           </p>
         </div>
       </div>
+      
       <div className="sobre-mi">
         <h1 className="frase-sobre">Hola, me llamo Yadira!!</h1>
         <p>

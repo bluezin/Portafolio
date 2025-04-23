@@ -4,7 +4,7 @@
     "linkGithub": "https://github.com/bluezin/countries-v2",
     "linkVisit": "https://countries-v2-3y4w.vercel.app/",
     "image": "https://res.cloudinary.com/dzkhw6nzm/image/upload/v1653676394/a0xk6lmbgontd5garzdg.png",
-    "description": "Muestra la lista de los países, consumo una api gratuita que esta dentro de countries (una api usando lo de Next.js), esta realizado con Redux Toolkit, Next.js, React, CSS Modules!"
+    "description": "Muestra la lista de los países, consume una api gratuita que esta dentro de countries (una api usando - Next.js), tiene: Redux Toolkit, Next.js, React, CSS Modules ...!"
   },
   {
     "title": "Veride",

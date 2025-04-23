@@ -1,6 +1,6 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
+import ReactDOM from 'react-dom/client';
+
 import Rutas from './components/Rutas';
 
-
-ReactDOM.render(<Rutas />, document.getElementById('app'));
+ReactDOM.createRoot(document.getElementById('app')).render(<Rutas />);
