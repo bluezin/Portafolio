@@ -32,14 +32,15 @@ const Contexto = () => {
           </p>
         </div>
       </div>
-      
+
       <div className="sobre-mi">
         <h1 className="frase-sobre">Hola, me llamo Yadira!!</h1>
         <p>
-          Soy Desarrolladora Frontend, cristiana, tengo 21 años, con más de 3
+          Soy Desarrolladora Frontend, cristiana, tengo 22 años, con más de 4
           años en el mundo de la programacíon, en donde he podido aprender y
           crecer más profesionalmente, si buscas una Desarrolladora Frontend
-          puede que yo sea tu opción :)
+          puede que yo sea tu opción :) (Adicional puedo ver que diseño es el
+          mejor dado el caso, para tu página)
           <br />
           PSDT: Tengo muchos proyectos en mi github!, puedes darles un
           vistazo!!!!
@@ -53,7 +54,7 @@ const Contexto = () => {
 
         <p className="phone">
           <AiFillPhone className="AiFillPhone" />
-          +51 994 107 561
+          Tan solo llamadas o mensajes por whatsapp: +51 994 107 561
         </p>
         <p className="mail">
           <CgMail className="CgMail" />
